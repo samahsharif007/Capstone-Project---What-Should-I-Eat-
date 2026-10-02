@@ -10,7 +10,8 @@ Option 1:
 The user is asked:
 - What they're in the mood for (healthy, comfort, fast food, fancy)
 - What their budget is (£ - £££)
-- Dietary requirements
+- Dietary requirements.
+  
 The program then generates a recommendation based on these answers.
 
 Option 2:
